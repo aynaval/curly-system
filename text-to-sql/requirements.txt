@@ -1,7 +1,0 @@
-fastAPI
-uvicorn
-langchain_ibm
-dotenv
-sqlalchemy
-tqdm
-tiktoken
