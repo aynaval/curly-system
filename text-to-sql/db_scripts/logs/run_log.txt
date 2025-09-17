@@ -1,0 +1,234 @@
+
+[2025-09-16T13:53:00.516046] Creating new SQLite database
+
+[2025-09-16T13:53:00.521617] Database created with tables
+{
+  "tables": [
+    "sca_event",
+    "sca_event_detail",
+    "sca_site",
+    "sca_site_detail"
+  ],
+  "row_counts": {
+    "sca_event": 10,
+    "sca_event_detail": 10,
+    "sca_site": 10,
+    "sca_site_detail": 10
+  }
+}
+
+[2025-09-16T13:53:59.278020] Creating new SQLite database
+
+[2025-09-16T13:53:59.289982] Database created with tables
+{
+  "tables": [
+    "sca_event",
+    "sca_event_detail",
+    "sca_site",
+    "sca_site_detail"
+  ],
+  "row_counts": {
+    "sca_event": 10,
+    "sca_event_detail": 10,
+    "sca_site": 10,
+    "sca_site_detail": 10
+  }
+}
+
+[2025-09-16T13:54:44.374314] Creating new SQLite database
+
+[2025-09-16T13:54:44.379409] Database created with tables
+{
+  "tables": [
+    "sca_event",
+    "sca_event_detail",
+    "sca_site",
+    "sca_site_detail"
+  ],
+  "row_counts": {
+    "sca_event": 10,
+    "sca_event_detail": 10,
+    "sca_site": 10,
+    "sca_site_detail": 10
+  }
+}
+
+[2025-09-16T13:59:57.624901] Creating new SQLite database
+
+[2025-09-16T13:59:57.630827] Database created with tables
+{
+  "tables": [
+    "sca_event",
+    "sca_event_detail",
+    "sca_site",
+    "sca_site_detail"
+  ],
+  "row_counts": {
+    "sca_event": 10,
+    "sca_event_detail": 10,
+    "sca_site": 10,
+    "sca_site_detail": 10
+  }
+}
+
+[2025-09-16T14:00:27.811315] Creating new SQLite database
+
+[2025-09-16T14:00:27.817473] Database created with tables
+{
+  "tables": [
+    "sca_event",
+    "sca_event_detail",
+    "sca_site",
+    "sca_site_detail"
+  ],
+  "row_counts": {
+    "sca_event": 10,
+    "sca_event_detail": 10,
+    "sca_site": 10,
+    "sca_site_detail": 10
+  }
+}
+
+[2025-09-16T14:00:44.649922] Creating new SQLite database
+
+[2025-09-16T14:00:44.655301] Database created with tables
+{
+  "tables": [
+    "sca_event",
+    "sca_event_detail",
+    "sca_site",
+    "sca_site_detail"
+  ],
+  "row_counts": {
+    "sca_event": 10,
+    "sca_event_detail": 10,
+    "sca_site": 10,
+    "sca_site_detail": 10
+  }
+}
+
+[2025-09-16T14:01:51.583680] Creating new SQLite database
+
+[2025-09-16T14:01:51.590071] Database created with tables
+{
+  "tables": [
+    "sca_event",
+    "sca_event_detail",
+    "sca_site",
+    "sca_site_detail"
+  ],
+  "row_counts": {
+    "sca_event": 10,
+    "sca_event_detail": 10,
+    "sca_site": 10,
+    "sca_site_detail": 10
+  }
+}
+
+[2025-09-16T14:02:27.596358] Creating new SQLite database
+
+[2025-09-16T14:02:27.603710] Database created with tables
+{
+  "tables": [
+    "sca_event",
+    "sca_event_detail",
+    "sca_site",
+    "sca_site_detail"
+  ],
+  "row_counts": {
+    "sca_event": 10,
+    "sca_event_detail": 10,
+    "sca_site": 10,
+    "sca_site_detail": 10
+  }
+}
+
+[2025-09-16T14:02:54.221692] Creating new SQLite database
+
+[2025-09-16T14:02:54.225567] Database created with tables
+{
+  "tables": [
+    "sca_event",
+    "sca_event_detail",
+    "sca_site",
+    "sca_site_detail"
+  ],
+  "row_counts": {
+    "sca_event": 10,
+    "sca_event_detail": 10,
+    "sca_site": 10,
+    "sca_site_detail": 10
+  }
+}
+
+[2025-09-16T14:03:43.140818] Creating new SQLite database
+
+[2025-09-16T14:03:43.147314] Database created with tables
+{
+  "tables": [
+    "sca_event",
+    "sca_event_detail",
+    "sca_site",
+    "sca_site_detail"
+  ],
+  "row_counts": {
+    "sca_event": 10,
+    "sca_event_detail": 10,
+    "sca_site": 10,
+    "sca_site_detail": 10
+  }
+}
+
+[2025-09-16T14:04:01.099625] Creating new SQLite database
+
+[2025-09-16T14:04:01.106282] Database created with tables
+{
+  "tables": [
+    "sca_event",
+    "sca_event_detail",
+    "sca_site",
+    "sca_site_detail"
+  ],
+  "row_counts": {
+    "sca_event": 10,
+    "sca_event_detail": 10,
+    "sca_site": 10,
+    "sca_site_detail": 10
+  }
+}
+
+[2025-09-17T12:19:40.170267] Creating new SQLite database
+
+[2025-09-17T12:19:40.175261] Database created with tables
+{
+  "tables": [
+    "sca_event",
+    "sca_event_detail",
+    "sca_site",
+    "sca_site_detail"
+  ],
+  "row_counts": {
+    "sca_event": 10,
+    "sca_event_detail": 10,
+    "sca_site": 10,
+    "sca_site_detail": 10
+  }
+}
+
+[2025-09-17T12:22:49.395773] Creating new SQLite database
+
+[2025-09-17T12:22:49.403851] Database created with tables
+{
+  "tables": [
+    "sca_event",
+    "sca_event_detail",
+    "sca_site",
+    "sca_site_detail"
+  ],
+  "row_counts": {
+    "sca_event": 10,
+    "sca_event_detail": 10,
+    "sca_site": 10,
+    "sca_site_detail": 10
+  }
+}

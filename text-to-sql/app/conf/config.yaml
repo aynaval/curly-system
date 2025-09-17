@@ -1,0 +1,8 @@
+logging_level: "INFO" # Other logical levels: 'DEBUG', 'WARNING', 'ERROR', 'CRITICAL'
+
+watsonxai:
+  api_key:
+  url: "https://us-south.ml.cloud.ibm.com"
+  project_id:
+  model_id: "meta-llama/llama-3-3-70b-instruct" ## Can be changed or configured to any model w/in watsonx.ai
+
